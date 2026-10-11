@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "向Puppeteer进程提出的其他论点",
-    "useExternalBrowser": "使用外部浏览器",
-    "executablePath": "外部浏览器的路径",
     "argument": "参数",
+    "executablePath": "外部浏览器的路径",
     "maxParallelRenders": "最大并行渲染数",
     "maxParallelRendersHelp": "同时允许多少个屏幕截图/页面处于活动状态。 0 = 无限制。将其调低以减少 RAM 使用。",
+    "useExternalBrowser": "使用外部浏览器",
     "webInstance": "Web 实例",
     "webInstanceHelp": "提供截图链接的 web 适配器实例。'*' 表示所有 web 实例。",
     "webPath": "URL 路径",

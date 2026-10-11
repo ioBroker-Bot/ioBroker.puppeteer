@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "Otros argumentos pasaron al proceso Puppeteer",
-    "useExternalBrowser": "Utilizar un navegador externo",
-    "executablePath": "Ruta al navegador externo",
     "argument": "Argumento",
+    "executablePath": "Ruta al navegador externo",
     "maxParallelRenders": "Máx. renders paralelos",
     "maxParallelRendersHelp": "Cuántas capturas de pantalla/páginas deben estar activas al mismo tiempo. 0 = ilimitado. Establézcalo para reducir el uso de RAM.",
+    "useExternalBrowser": "Utilizar un navegador externo",
     "webInstance": "Instancia web",
     "webInstanceHelp": "Instancia del adaptador web que proporciona el enlace de la captura de pantalla. '*' significa todas las instancias web.",
     "webPath": "Ruta URL",

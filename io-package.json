@@ -91,7 +91,8 @@
         "it": "ora chiudiamo la pagina anche quando screenshot preso tramite messaggio",
         "es": "ahora cerramos la página también cuando capturamos la pantalla a través del mensaje",
         "pl": "zbliża się również do ekranu, który został wykonany za pośrednictwem wiadomości",
-        "zh-cn": "我们现在关闭该页。"
+        "zh-cn": "我们现在关闭该页。",
+        "uk": "тепер ми також закриваємо сторінку, коли знімок екрана зроблено через повідомлення"
       }
     },
     "titleLang": {
@@ -104,7 +105,8 @@
       "it": "Burattinaio",
       "es": "Titiritero",
       "pl": "Lalkarz",
-      "zh-cn": "傀儡师"
+      "zh-cn": "傀儡师",
+      "uk": "Ляльковод"
     },
     "desc": {
       "en": "Headless browser to generate screenshots based on Chrome",
@@ -116,7 +118,8 @@
       "it": "Browser headless per generare screenshot basati su Chrome",
       "es": "Navegador sin cabeza para generar capturas de pantalla basado en Chrome",
       "pl": "Bezgłowa przeglądarka do generowania zrzutów ekranu w oparciu o Chrome",
-      "zh-cn": "基于 Chrome 生成截图的无头浏览器"
+      "zh-cn": "基于 Chrome 生成截图的无头浏览器",
+      "uk": "Безголовий браузер для створення скріншотів на основі Chrome"
     },
     "authors": [
       "Moritz Heusinger <moritz.heusinger@gmail.com>",

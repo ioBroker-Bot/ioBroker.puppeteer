@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "Dodatkowe argumenty przekazane do procesu Puppeteer",
-    "useExternalBrowser": "Korzystanie z zewnętrznej przeglądarki",
-    "executablePath": "Ścieżka do zewnętrznej przeglądarki",
     "argument": "Argument",
+    "executablePath": "Ścieżka do zewnętrznej przeglądarki",
     "maxParallelRenders": "Maks. renderów równoległych",
     "maxParallelRendersHelp": "Ile zrzutów ekranu/stron powinno być aktywnych jednocześnie. 0 = bez limitu. Ustawić to, aby zaoszczędzić RAM.",
+    "useExternalBrowser": "Korzystanie z zewnętrznej przeglądarki",
     "webInstance": "Instancja web",
     "webInstanceHelp": "Instancja adaptera web, która udostępnia link do zrzutu ekranu. '*' oznacza wszystkie instancje web.",
     "webPath": "Ścieżka URL",

@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "Aanvullende argumenten voor het Puppeteerproces",
-    "useExternalBrowser": "Externe browser gebruiken",
-    "executablePath": "Pad naar de externe browser",
     "argument": "Argument",
+    "executablePath": "Pad naar de externe browser",
     "maxParallelRenders": "Max. parallelle renders",
     "maxParallelRendersHelp": "Hoeveel screenshots/pagina's er tegelijkertijd actief mogen zijn. 0 = onbeperkt. Verlaag dit om RAM te besparen.",
+    "useExternalBrowser": "Externe browser gebruiken",
     "webInstance": "Web-instantie",
     "webInstanceHelp": "Instantie van de web-adapter die de screenshot-link levert. '*' betekent alle web-instanties.",
     "webPath": "URL-pad",

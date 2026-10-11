@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "Ulteriori argomenti passati al processo Puppeteer",
-    "useExternalBrowser": "Utilizzare un browser esterno",
-    "executablePath": "Percorso del browser esterno",
     "argument": "Argomento",
+    "executablePath": "Percorso del browser esterno",
     "maxParallelRenders": "Max. rendering paralleli",
     "maxParallelRendersHelp": "Quanti screenshot/pagine dovrebbero essere attivi contemporaneamente. 0 = illimitato. Impostalo per ridurre l'utilizzo della RAM.",
+    "useExternalBrowser": "Utilizzare un browser esterno",
     "webInstance": "Istanza web",
     "webInstanceHelp": "Istanza dell'adattatore web che fornisce il link dello screenshot. '*' significa tutte le istanze web.",
     "webPath": "Percorso URL",

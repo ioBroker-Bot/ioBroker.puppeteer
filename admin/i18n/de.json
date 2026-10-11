@@ -1,10 +1,10 @@
 {
     "additionalLaunchArgs": "Zusätzliche Argumente, die dem Puppeteer-Prozess übergeben werden",
-    "useExternalBrowser": "Externen Browser verwenden",
-    "executablePath": "Pfad zum externen Browser",
     "argument": "Argument",
+    "executablePath": "Pfad zum externen Browser",
     "maxParallelRenders": "Max. parallele Renders",
     "maxParallelRendersHelp": "Wie viele Screenshots/Seiten dürfen gleichzeitig aktiv sein. 0 = unbegrenzt. Reduzieren Sie den Wert, um RAM zu sparen.",
+    "useExternalBrowser": "Externen Browser verwenden",
     "webInstance": "Web-Instanz",
     "webInstanceHelp": "Instanz des Web-Adapters, die den Screenshot-Link bereitstellt. '*' bedeutet alle Web-Instanzen.",
     "webPath": "URL-Pfad",
