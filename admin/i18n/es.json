@@ -1,0 +1,12 @@
+{
+    "additionalLaunchArgs": "Otros argumentos pasaron al proceso Puppeteer",
+    "useExternalBrowser": "Utilizar un navegador externo",
+    "executablePath": "Ruta al navegador externo",
+    "argument": "Argumento",
+    "maxParallelRenders": "Máx. renders paralelos",
+    "maxParallelRendersHelp": "Cuántas capturas de pantalla/páginas deben estar activas al mismo tiempo. 0 = ilimitado. Establézcalo para reducir el uso de RAM.",
+    "webInstance": "Instancia web",
+    "webInstanceHelp": "Instancia del adaptador web que proporciona el enlace de la captura de pantalla. '*' significa todas las instancias web.",
+    "webPath": "Ruta URL",
+    "webPathHelp": "Las capturas están disponibles en http://<web-ip>:8082/<ruta>/?url=... Debe ser único si varias instancias de puppeteer usan la misma instancia web."
+}

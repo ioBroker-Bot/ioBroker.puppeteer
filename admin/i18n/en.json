@@ -1,0 +1,12 @@
+{
+    "additionalLaunchArgs": "Additional arguments passed to the Puppeteer process",
+    "useExternalBrowser": "Use external browser",
+    "executablePath": "Path to the external browser",
+    "argument": "Argument",
+    "maxParallelRenders": "Max. parallel renders",
+    "maxParallelRendersHelp": "How many screenshots/pages should be active at the same time. 0 = unlimited. Set this to reduce RAM usage.",
+    "webInstance": "Web instance",
+    "webInstanceHelp": "Instance of the web adapter that provides the screenshot link. '*' means all web instances.",
+    "webPath": "URL path",
+    "webPathHelp": "Screenshots are available at http://<web-ip>:8082/<path>/?url=... Must be unique if several puppeteer instances use the same web instance."
+}
