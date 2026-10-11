@@ -2,6 +2,7 @@
     "additionalLaunchArgs": "Aanvullende argumenten voor het Puppeteerproces",
     "argument": "Argument",
     "executablePath": "Pad naar de externe browser",
+    "executablePathPlaceholder": "/usr/bin/chromium-browser",
     "maxParallelRenders": "Max. parallelle renders",
     "maxParallelRendersHelp": "Hoeveel screenshots/pagina's er tegelijkertijd actief mogen zijn. 0 = onbeperkt. Verlaag dit om RAM te besparen.",
     "useExternalBrowser": "Externe browser gebruiken",

@@ -12,7 +12,7 @@
             "xl": 12
         },
         "executablePath": {
-            "placeholder": "/usr/bin/chromium-browser",
+            "placeholder": "executablePathPlaceholder",
             "hidden": "!data.useExternalBrowser",
             "newLine": true,
             "type": "text",
@@ -38,7 +38,7 @@
             "items": [
                 {
                     "attr": "Argument",
-                    "label": "Argument",
+                    "label": "argument",
                     "filter": false,
                     "sort": false,
                     "type": "autocomplete",

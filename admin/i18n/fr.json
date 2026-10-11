@@ -2,6 +2,7 @@
     "additionalLaunchArgs": "Autres arguments transmis au processus Puppeteer",
     "argument": "Argument",
     "executablePath": "Chemin d'accès au navigateur externe",
+    "executablePathPlaceholder": "/usr/bin/chromium-browser",
     "maxParallelRenders": "Max. rendus parallèles",
     "maxParallelRendersHelp": "Combien de captures d'écran/pages doivent être actives en même temps. 0 = illimité. Définir cela pour réduire l'utilisation de la RAM.",
     "useExternalBrowser": "Utiliser un navigateur externe",
