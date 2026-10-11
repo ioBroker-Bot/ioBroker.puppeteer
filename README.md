@@ -228,7 +228,7 @@ This adapter would not have been possible without the great work of @foxriver67 
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.1.1 (2026-10-11)
 
 - (mcm1957) issues reported by repositorychecker have been fixed
 - (mcm1957) dependencies have been updated
@@ -252,9 +252,6 @@ This adapter would not have been possible without the great work of @foxriver67 
 ### 0.3.0 (2024-05-19)
 * (foxriver76) allowed specifying additional arguments for the puppeteer process
 * (foxriver76) updated puppeteer dependency
-
-### 0.2.8 (2024-01-09)
-* (foxriver76) update puppeteer dependency
 
 [Older changelogs can be found there](CHANGELOG_OLD.md)
 

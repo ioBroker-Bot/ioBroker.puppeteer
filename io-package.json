@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "puppeteer",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "news": {
+      "1.1.1": {
+        "en": "issues reported by repositorychecker have been fixed\ndependencies have been updated",
+        "de": "Von RepositoryChecker gemeldete Probleme wurden behoben\nAbhängigkeiten wurden aktualisiert",
+        "ru": "проблемы, о которых сообщал репозиторий, были исправлены\nзависимости обновлены",
+        "pt": "problemas relatados pelo repositorychecker foram corrigidos\ndependências atualizadas",
+        "nl": "problemen die door repositorychecker zijn gemeld, zijn opgelost\nafhankelijkheden zijn bijgewerkt",
+        "fr": "les problèmes signalés par repositorychecker ont été résolus\nles dépendances ont été mises à jour",
+        "it": "risolti i problemi segnalati da RepositoryChecker\nle dipendenze sono aggiornate",
+        "es": "se han solucionado los problemas reportados por repositorychecker\nse actualizaron las dependencias",
+        "pl": "problemy zgłoszone przez repositorychecker zostały naprawione\nzależności zostały zaktualizowane",
+        "uk": "Виправлені проблеми, про які повідомляє repositorychecker\nзалежності були оновлені",
+        "zh-cn": "存储库检查器报告的问题已修复\n依赖关系已更新"
+      },
       "1.1.0": {
         "en": "Added a web extension for `ioBroker.web`, so screenshots can be taken by calling a link\nAdded the option to limit the simultaneous renders to avoid overload of the system\nFixed renderer-process leak when navigation or screenshot threw — pages are now always closed\nAdded per-request `waitUntil` and `navigationTimeout` parameters (message API + web server) to support live-data dashboards (vis, Lovelace, Grafana) without hitting the network-idle timeout",
         "de": "Erweiterung für `ioBroker.Web` hinzugefügt, um Screenshots per Link zu machen\nOption zum gleichzeitigen Rendern hinzugefügt, um das System zu überlasten\nRenderer-Leck bei Navigation oder Screenshot behoben — Seiten sind jetzt immer geschlossen\nDie Parameter `WaitUntil` und `NavigationTimeout` pro Anfrage (Message-API und Webserver) wurden hinzugefügt, um Live-Daten-Dashboards (vis, Lovelace, Grafana) zu unterstützen",
@@ -80,19 +93,6 @@
         "pl": "aktualizacja marionetki",
         "uk": "оновлення залежності цуценя",
         "zh-cn": "二. 重新依赖"
-      },
-      "0.2.6": {
-        "en": "we now close the page also when screenshot taken via message",
-        "de": "wir schließen jetzt die seite auch, wenn screenshot über nachricht aufgenommen",
-        "ru": "мы теперь закрываем страницу также когда скриншот сделанный через сообщение",
-        "pt": "nós agora fechamos a página também quando a captura de tela tirada através da mensagem",
-        "nl": "we sluiten de pagina ook als de screenshot via de boodschap",
-        "fr": "nous fermons maintenant la page aussi quand capture d'écran prise via message",
-        "it": "ora chiudiamo la pagina anche quando screenshot preso tramite messaggio",
-        "es": "ahora cerramos la página también cuando capturamos la pantalla a través del mensaje",
-        "pl": "zbliża się również do ekranu, który został wykonany za pośrednictwem wiadomości",
-        "zh-cn": "我们现在关闭该页。",
-        "uk": "тепер ми також закриваємо сторінку, коли знімок екрана зроблено через повідомлення"
       }
     },
     "titleLang": {
