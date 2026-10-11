@@ -258,7 +258,7 @@
         "type": "number",
         "read": true,
         "write": true,
-        "role": "value",
+        "role": "level",
         "def": 0
       },
       "native": {}
@@ -271,7 +271,7 @@
         "type": "number",
         "read": true,
         "write": true,
-        "role": "value",
+        "role": "level",
         "def": 0
       },
       "native": {}
@@ -284,7 +284,7 @@
         "type": "number",
         "read": true,
         "write": true,
-        "role": "value"
+        "role": "level"
       },
       "native": {}
     },
@@ -296,7 +296,7 @@
         "type": "number",
         "read": true,
         "write": true,
-        "role": "value"
+        "role": "level"
       },
       "native": {}
     },
@@ -308,7 +308,7 @@
         "type": "number",
         "read": true,
         "write": true,
-        "role": "value.interval",
+        "role": "level.timer",
         "unit": "ms"
       },
       "native": {}
