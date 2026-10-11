@@ -135,14 +135,24 @@
     "items": {
         "useExternalBrowser": {
             "type": "checkbox",
-            "label": "useExternalBrowser"
+            "label": "useExternalBrowser",
+            "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12
         },
         "executablePath": {
             "placeholder": "/usr/bin/chromium-browser",
             "hidden": "!data.useExternalBrowser",
             "newLine": true,
             "type": "text",
-            "label": "executablePath"
+            "label": "executablePath",
+            "xs": 12,
+            "sm": 12,
+            "md": 6,
+            "lg": 4,
+            "xl": 4
         },
         "additionalArgs": {
             "newLine": true,
@@ -152,6 +162,10 @@
                 "Argument"
             ],
             "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12,
             "items": [
                 {
                     "attr": "Argument",
@@ -173,7 +187,12 @@
             "min": 0,
             "step": 1,
             "label": "maxParallelRenders",
-            "help": "maxParallelRendersHelp"
+            "help": "maxParallelRendersHelp",
+            "xs": 12,
+            "sm": 12,
+            "md": 6,
+            "lg": 4,
+            "xl": 4
         },
         "webInstance": {
             "newLine": true,
@@ -185,7 +204,8 @@
             "xs": 12,
             "sm": 12,
             "md": 6,
-            "lg": 4
+            "lg": 4,
+            "xl": 4
         },
         "webPath": {
             "type": "text",
@@ -194,7 +214,8 @@
             "xs": 12,
             "sm": 12,
             "md": 6,
-            "lg": 4
+            "lg": 4,
+            "xl": 4
         }
     }
 }
