@@ -2,6 +2,7 @@
     "additionalLaunchArgs": "Дополнительные аргументы, переданные в процесс Puppeteer",
     "argument": "Аргумент",
     "executablePath": "Путь к внешнему браузеру",
+    "executablePathPlaceholder": "/usr/bin/chromium-browser",
     "maxParallelRenders": "Макс. параллельных процессов",
     "maxParallelRendersHelp": "Сколько скриншотов/страниц должно быть активно одновременно. 0 = не ограничено. Уменьшите для экономии ОЗУ.",
     "useExternalBrowser": "Используйте внешний браузер",

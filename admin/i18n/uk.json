@@ -2,6 +2,7 @@
     "additionalLaunchArgs": "Додаткові аргументи передані до процесу цуценя",
     "argument": "Аргумент",
     "executablePath": "Шлях до зовнішнього браузера",
+    "executablePathPlaceholder": "/usr/bin/chromium-browser",
     "maxParallelRenders": "Макс. паралельних рендерів",
     "maxParallelRendersHelp": "Скільки скріншотів/сторінок повинно бути активними одночасно. 0 = необмежено. Зменшіть, щоб заощадити RAM.",
     "useExternalBrowser": "Використовуйте зовнішній браузер",

@@ -2,6 +2,7 @@
     "additionalLaunchArgs": "Additional arguments passed to the Puppeteer process",
     "useExternalBrowser": "Use external browser",
     "executablePath": "Path to the external browser",
+    "executablePathPlaceholder": "/usr/bin/chromium-browser",
     "argument": "Argument",
     "maxParallelRenders": "Max. parallel renders",
     "maxParallelRendersHelp": "How many screenshots/pages should be active at the same time. 0 = unlimited. Set this to reduce RAM usage.",
