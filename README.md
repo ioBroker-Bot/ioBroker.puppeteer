@@ -228,6 +228,11 @@ This adapter would not have been possible without the great work of @foxriver67 
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+
+- (mcm1957) issues reported by repositorychecker have been fixed
+- (mcm1957) dependencies have been updated
+
 ### 1.1.0 (2026-09-15)
 * (@GermanBluefox) Added a web extension for `ioBroker.web`, so screenshots can be taken by calling a link
 * (@GermanBluefox) Added the option to limit the simultaneous renders to avoid overload of the system
